@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Radbrook
+   Country: England
+   PersonID: 41
+   Gender: Female
+   DOB: 2012-02-07 00:00:00
+   Surname: Carroll
+   GivenName: Emma
+   School: Radbrook School
+   GP: Radbrook GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 5b4b7ee3-ae16-4df8-8998-a783a85bb3cd
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '2012-04-05T00:00:00', 'id': UUID('d5b5c64d-25fe-49c0-ace5-60b2eef190ff')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '2012-04-05T00:00:00', 'id': UUID('d5b5c64d-25fe-49c0-ace5-60b2eef190ff')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '2012-04-05T00:00:00', 'id': UUID('d5b5c64d-25fe-49c0-ace5-60b2eef190ff')}

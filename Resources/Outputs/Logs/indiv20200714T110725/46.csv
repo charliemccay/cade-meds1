@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+864,MichaelJourney,WaitToSeeGP,,,,1989-07-31T00:00:00
+865,MichaelJourney,GPvisit,,,,1989-07-31T00:00:00
+868,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,1989-10-09T00:00:00
+868,MichaelJourney,GPvisit,,,,1989-10-09T00:00:00
+869,MichaelJourney,PharmacyVisit,,,,1989-10-09T00:00:00
+870,MichaelJourney,Wait4Park,,,,1989-10-14T22:00:00
+871,MichaelJourney,ParrkVisit,,,,1989-10-14T22:00:00
+872,MichaelJourney,Wait4Ambulance,,,,1989-10-15T22:00:00
+873,MichaelJourney,AmbulanceTrip,,,,1989-10-15T22:00:00
+874,MichaelJourney,Wiat4ED,,,,1989-10-15T22:04:00
+875,MichaelJourney,EmergencyDept,,,,1989-10-15T22:04:00
+876,MichaelJourney,Wait4Ward,,,,1989-10-15T22:20:00
+877,MichaelJourney,Admit2Ward,,,,1989-10-15T22:20:00
+878,MichaelJourney,Wait4Prepare4Discharge,,,,1989-10-15T22:34:00
+879,MichaelJourney,Prepare4Discharge,,,,1989-10-15T22:34:00
+880,MichaelJourney,Wait4Discharge,,,,1989-10-15T22:37:00
+881,MichaelJourney,Discharge,,,,1989-10-15T22:37:00
+882,MichaelJourney,Wait4PHR,,,,1989-10-15T22:50:00
+883,MichaelJourney,UpdatePHR,,,,1989-10-15T22:50:00
+884,MichaelJourney,Wait4OPMakeAppt,,,,1989-10-15T22:55:00
+885,MichaelJourney,CreateOutpatientAppt,,,,1989-10-15T22:55:00
+886,MichaelJourney,Wait4OutpatientAppt,,,,1989-10-15T23:07:00
+887,MichaelJourney,AttendOutpatients,,,,1989-10-15T23:07:00
+888,MichaelJourney,Finish,,,,1989-10-15T23:22:00
+889,MichaelJourney,Finish,,,,1989-10-15T23:22:00

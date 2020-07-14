@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Radbrook
+   Country: England
+   PersonID: 40
+   Gender: Male
+   DOB: 1970-03-01 00:00:00
+   Surname: Cooper
+   GivenName: Brandon
+   School: Radbrook School
+   GP: Radbrook GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: c0b748ca-01d5-4c3b-bdf5-7b6ecd31ddb8
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1970-05-04T00:00:00', 'id': UUID('df1d0c82-b245-429f-a695-f4901944131f')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1970-05-04T00:00:00', 'id': UUID('df1d0c82-b245-429f-a695-f4901944131f')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1970-05-04T00:00:00', 'id': UUID('df1d0c82-b245-429f-a695-f4901944131f')}

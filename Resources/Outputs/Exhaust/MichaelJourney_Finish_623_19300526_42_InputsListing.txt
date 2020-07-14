@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Sundorne
+   Country: England
+   PersonID: 42
+   Gender: Female
+   DOB: 1975-02-15 00:00:00
+   Surname: Gibson
+   GivenName: Alice
+   School: Sundorne School
+   GP: Sundorne GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: c54672f5-62d8-4720-9300-64437f0b4475
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1975-04-19T00:00:00', 'id': UUID('05bb18e2-0e88-4883-9b99-54efb4496bfd')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1975-04-19T00:00:00', 'id': UUID('05bb18e2-0e88-4883-9b99-54efb4496bfd')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1975-04-19T00:00:00', 'id': UUID('05bb18e2-0e88-4883-9b99-54efb4496bfd')}

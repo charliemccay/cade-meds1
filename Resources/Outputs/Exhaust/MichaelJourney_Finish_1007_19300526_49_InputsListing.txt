@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Underdale
+   Country: England
+   PersonID: 49
+   Gender: Female
+   DOB: 1998-12-06 00:00:00
+   Surname: Griffin
+   GivenName: Laura
+   School: Underdale School
+   GP: Underdale GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 60b6c672-6d2c-4944-a9ac-b75c27b06f9b
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1999-02-11T00:00:00', 'id': UUID('dc525c0c-0d27-44b2-9c9a-f34f46cc40b0')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1999-02-11T00:00:00', 'id': UUID('dc525c0c-0d27-44b2-9c9a-f34f46cc40b0')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1999-02-11T00:00:00', 'id': UUID('dc525c0c-0d27-44b2-9c9a-f34f46cc40b0')}

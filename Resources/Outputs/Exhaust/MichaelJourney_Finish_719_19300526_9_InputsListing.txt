@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Belle Vue
+   Country: England
+   PersonID: 9
+   Gender: Female
+   DOB: 1977-11-05 00:00:00
+   Surname: Marshall
+   GivenName: Jennifer
+   School: Belle Vue School
+   GP: Belle Vue GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 6fc8f0b9-5c3b-4db8-8761-84a17ce4d590
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 61, 'kg'], 'date': '1978-01-25T00:00:00', 'id': UUID('29b10bb9-b650-4057-b84e-ff503a578629')}
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 61, 'kg']
+----------------------------
+person['Hist']':  
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1977-11-05T00:00:00', 'id': UUID('5e9e6668-453f-4aa1-ae47-c24f035d9682')}]
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 61, 'kg'], 'date': '1978-01-25T00:00:00', 'id': UUID('29b10bb9-b650-4057-b84e-ff503a578629')}]
+person['Last']':  
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1977-11-05T00:00:00', 'id': UUID('5e9e6668-453f-4aa1-ae47-c24f035d9682')}
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 61, 'kg'], 'date': '1978-01-25T00:00:00', 'id': UUID('29b10bb9-b650-4057-b84e-ff503a578629')}

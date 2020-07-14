@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Quarry and Coton Hill
+   Country: England
+   PersonID: 37
+   Gender: Male
+   DOB: 1990-01-09 00:00:00
+   Surname: Riley
+   GivenName: Hayden
+   School: Coton Hill School
+   GP: Quarry GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: a17f2d3a-1c54-44f1-ab04-93045b2d997c
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1990-04-02T00:00:00', 'id': UUID('533854dc-0002-4bc9-badc-d0b1621a1728')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1990-04-02T00:00:00', 'id': UUID('533854dc-0002-4bc9-badc-d0b1621a1728')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1990-04-02T00:00:00', 'id': UUID('533854dc-0002-4bc9-badc-d0b1621a1728')}

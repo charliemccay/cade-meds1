@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Sutton and Reabrook
+   Country: England
+   PersonID: 46
+   Gender: Female
+   DOB: 1989-07-31 00:00:00
+   Surname: Howarth
+   GivenName: Imogen
+   School: Reabrook School
+   GP: Sutton GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 250aa299-8a5a-44d7-96a4-5aa4c9eeaa0e
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1989-10-09T00:00:00', 'id': UUID('f017d313-5376-437f-918d-36299d6f4641')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1989-10-09T00:00:00', 'id': UUID('f017d313-5376-437f-918d-36299d6f4641')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1989-10-09T00:00:00', 'id': UUID('f017d313-5376-437f-918d-36299d6f4641')}

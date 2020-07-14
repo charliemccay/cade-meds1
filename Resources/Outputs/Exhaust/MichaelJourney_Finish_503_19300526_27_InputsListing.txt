@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Meole
+   Country: England
+   PersonID: 27
+   Gender: Male
+   DOB: 1969-03-18 00:00:00
+   Surname: Ryan
+   GivenName: Harry
+   School: Meole School
+   GP: Meole GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 758eb7f7-080c-4733-b3e4-1b2d9dcc68c7
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1969-06-02T00:00:00', 'id': UUID('8bd0b020-773f-4809-ad41-ec229b453f07')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1969-06-02T00:00:00', 'id': UUID('8bd0b020-773f-4809-ad41-ec229b453f07')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1969-06-02T00:00:00', 'id': UUID('8bd0b020-773f-4809-ad41-ec229b453f07')}

@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Sutton and Reabrook
+   Country: England
+   PersonID: 47
+   Gender: Male
+   DOB: 2005-03-28 00:00:00
+   Surname: Leach
+   GivenName: Ryan
+   School: Reabrook School
+   GP: Sutton GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: cf23324e-eea9-4525-8f89-066381ca791f
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '2005-05-25T00:00:00', 'id': UUID('7de80fa9-cfc4-4491-86b3-bb74a8676d62')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '2005-05-25T00:00:00', 'id': UUID('7de80fa9-cfc4-4491-86b3-bb74a8676d62')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '2005-05-25T00:00:00', 'id': UUID('7de80fa9-cfc4-4491-86b3-bb74a8676d62')}

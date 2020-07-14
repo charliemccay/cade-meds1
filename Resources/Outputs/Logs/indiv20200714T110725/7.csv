@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+720,MichaelJourney,WaitToSeeGP,,,,1978-11-26T00:00:00
+721,MichaelJourney,GPvisit,,,,1978-11-26T00:00:00
+722,MichaelJourney,GPvisit,GPVisit,Symptom,"['3141-9', 'Weight Measured', '27113001', 'Body weight', 66, 'kg']",1979-01-31T00:00:00
+722,MichaelJourney,GPvisit,,,,1979-01-31T00:00:00
+723,MichaelJourney,PharmacyVisit,,,,1979-01-31T00:00:00
+724,MichaelJourney,Wait4Park,,,,1979-02-02T10:00:00
+725,MichaelJourney,ParrkVisit,,,,1979-02-02T10:00:00
+726,MichaelJourney,Wait4Ambulance,,,,1979-02-12T10:00:00
+727,MichaelJourney,AmbulanceTrip,,,,1979-02-12T10:00:00
+728,MichaelJourney,Wiat4ED,,,,1979-02-12T10:17:00
+729,MichaelJourney,EmergencyDept,,,,1979-02-12T10:17:00
+730,MichaelJourney,Wait4Ward,,,,1979-02-12T10:22:00
+731,MichaelJourney,Admit2Ward,,,,1979-02-12T10:22:00
+732,MichaelJourney,Wait4Prepare4Discharge,,,,1979-02-12T10:41:00
+733,MichaelJourney,Prepare4Discharge,,,,1979-02-12T10:41:00
+734,MichaelJourney,Wait4Discharge,,,,1979-02-12T10:59:00
+735,MichaelJourney,Discharge,,,,1979-02-12T10:59:00
+736,MichaelJourney,Wait4PHR,,,,1979-02-12T11:05:00
+737,MichaelJourney,UpdatePHR,,,,1979-02-12T11:05:00
+738,MichaelJourney,Wait4OPMakeAppt,,,,1979-02-12T11:11:00
+739,MichaelJourney,CreateOutpatientAppt,,,,1979-02-12T11:11:00
+740,MichaelJourney,Wait4OutpatientAppt,,,,1979-02-12T11:21:00
+741,MichaelJourney,AttendOutpatients,,,,1979-02-12T11:21:00
+742,MichaelJourney,Finish,,,,1979-02-12T11:37:00
+743,MichaelJourney,Finish,,,,1979-02-12T11:37:00

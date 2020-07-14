@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Bagley
+   Country: England
+   PersonID: 5
+   Gender: Male
+   DOB: 1961-07-26 00:00:00
+   Surname: Howarth
+   GivenName: Jamie
+   School: Bagley School
+   GP: Bagely GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: fe156038-b007-4d13-b8a2-7b72a90d51b9
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 98, 'kg'], 'date': '1961-10-07T00:00:00', 'id': UUID('7d8733b6-6c94-4496-a12a-005a3afb85c2')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 98, 'kg']
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1961-07-26T00:00:00', 'id': UUID('cee2eccf-8cdd-4abd-a943-64b82b55927f')}]
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 98, 'kg'], 'date': '1961-10-07T00:00:00', 'id': UUID('7d8733b6-6c94-4496-a12a-005a3afb85c2')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1961-07-26T00:00:00', 'id': UUID('cee2eccf-8cdd-4abd-a943-64b82b55927f')}
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 98, 'kg'], 'date': '1961-10-07T00:00:00', 'id': UUID('7d8733b6-6c94-4496-a12a-005a3afb85c2')}

@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+1032,MichaelJourney,WaitToSeeGP,,,,2005-03-28T00:00:00
+1033,MichaelJourney,GPvisit,,,,2005-03-28T00:00:00
+1034,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,2005-05-25T00:00:00
+1034,MichaelJourney,GPvisit,,,,2005-05-25T00:00:00
+1035,MichaelJourney,PharmacyVisit,,,,2005-05-25T00:00:00
+1036,MichaelJourney,Wait4Park,,,,2005-05-29T18:00:00
+1037,MichaelJourney,ParrkVisit,,,,2005-05-29T18:00:00
+1038,MichaelJourney,Wait4Ambulance,,,,2005-06-12T18:00:00
+1039,MichaelJourney,AmbulanceTrip,,,,2005-06-12T18:00:00
+1040,MichaelJourney,Wiat4ED,,,,2005-06-12T18:02:00
+1041,MichaelJourney,EmergencyDept,,,,2005-06-12T18:02:00
+1042,MichaelJourney,Wait4Ward,,,,2005-06-12T18:14:00
+1043,MichaelJourney,Admit2Ward,,,,2005-06-12T18:14:00
+1044,MichaelJourney,Wait4Prepare4Discharge,,,,2005-06-12T18:17:00
+1045,MichaelJourney,Prepare4Discharge,,,,2005-06-12T18:17:00
+1046,MichaelJourney,Wait4Discharge,,,,2005-06-12T18:28:00
+1047,MichaelJourney,Discharge,,,,2005-06-12T18:28:00
+1048,MichaelJourney,Wait4PHR,,,,2005-06-12T18:32:00
+1049,MichaelJourney,UpdatePHR,,,,2005-06-12T18:32:00
+1050,MichaelJourney,Wait4OPMakeAppt,,,,2005-06-12T18:47:00
+1051,MichaelJourney,CreateOutpatientAppt,,,,2005-06-12T18:47:00
+1052,MichaelJourney,Wait4OutpatientAppt,,,,2005-06-12T19:05:00
+1053,MichaelJourney,AttendOutpatients,,,,2005-06-12T19:05:00
+1054,MichaelJourney,Finish,,,,2005-06-12T19:22:00
+1055,MichaelJourney,Finish,,,,2005-06-12T19:22:00

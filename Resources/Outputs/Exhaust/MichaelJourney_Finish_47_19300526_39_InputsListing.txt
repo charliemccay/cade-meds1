@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Radbrook
+   Country: England
+   PersonID: 39
+   Gender: Female
+   DOB: 1936-08-04 00:00:00
+   Surname: Lawson
+   GivenName: Amy
+   School: Radbrook School
+   GP: Radbrook GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: c22dfead-c177-41b4-9285-2d0200205b29
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1936-10-27T00:00:00', 'id': UUID('7c65e2fb-3a60-4a8f-b7dd-afd125a75415')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1936-08-04T00:00:00', 'id': UUID('c87dae12-b1c8-4900-86da-f59bc5a000a2')}]
+   Symptom: [{'value': 'all the rest', 'date': '1936-10-27T00:00:00', 'id': UUID('7c65e2fb-3a60-4a8f-b7dd-afd125a75415')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1936-08-04T00:00:00', 'id': UUID('c87dae12-b1c8-4900-86da-f59bc5a000a2')}
+   Symptom: {'value': 'all the rest', 'date': '1936-10-27T00:00:00', 'id': UUID('7c65e2fb-3a60-4a8f-b7dd-afd125a75415')}

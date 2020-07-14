@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Castlefields and Ditherington
+   Country: England
+   PersonID: 16
+   Gender: Male
+   DOB: 1995-05-17 00:00:00
+   Surname: Curtis
+   GivenName: Cameron
+   School: Castlefields School
+   GP: Castlefields GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: be9e8ebd-d527-4174-ade9-5de6e2e19d1c
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1995-08-01T00:00:00', 'id': UUID('22ad0ac3-a613-41cc-a000-570fcbf51648')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1995-08-01T00:00:00', 'id': UUID('22ad0ac3-a613-41cc-a000-570fcbf51648')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1995-08-01T00:00:00', 'id': UUID('22ad0ac3-a613-41cc-a000-570fcbf51648')}

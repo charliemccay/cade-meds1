@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Belle Vue
+   Country: England
+   PersonID: 11
+   Gender: Male
+   DOB: 1975-01-10 00:00:00
+   Surname: Ashton
+   GivenName: Muhammad
+   School: Belle Vue School
+   GP: Belle Vue GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 0b7ff02f-3545-44ec-887e-198c352c3499
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1975-03-21T00:00:00', 'id': UUID('feb1c5c9-2fa3-45e6-8685-0ba81dd4e610')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1975-03-21T00:00:00', 'id': UUID('feb1c5c9-2fa3-45e6-8685-0ba81dd4e610')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1975-03-21T00:00:00', 'id': UUID('feb1c5c9-2fa3-45e6-8685-0ba81dd4e610')}

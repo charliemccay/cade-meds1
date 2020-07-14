@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Meole
+   Country: England
+   PersonID: 29
+   Gender: Female
+   DOB: 1977-04-15 00:00:00
+   Surname: Griffiths
+   GivenName: Eleanor
+   School: Meole School
+   GP: Meole GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: b75cf7da-7b8d-472a-aa28-1810688d13ae
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1977-06-16T00:00:00', 'id': UUID('2dae56ee-16b4-4666-bbd0-6ce29f918882')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1977-06-16T00:00:00', 'id': UUID('2dae56ee-16b4-4666-bbd0-6ce29f918882')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1977-06-16T00:00:00', 'id': UUID('2dae56ee-16b4-4666-bbd0-6ce29f918882')}

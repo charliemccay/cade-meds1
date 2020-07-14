@@ -1,0 +1,29 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Castlefields and Ditherington
+   Country: England
+   PersonID: 17
+   Gender: Male
+   DOB: 1940-07-15 00:00:00
+   Surname: Sims
+   GivenName: Zak
+   School: Castlefields School
+   GP: Castlefields GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: d76ff532-efee-4dad-9d63-cef059512311
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1940-10-04T00:00:00', 'id': UUID('514e56b5-7f1e-402a-9d35-3baee03e1444')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1940-07-15T00:00:00', 'id': UUID('ca866959-ffcb-460b-b54b-c3f0d722bfc0')}]
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1940-07-15T00:00:00', 'id': UUID('04427e2d-c7ea-4402-be74-efd634399783')}]
+   Symptom: [{'value': 'all the rest', 'date': '1940-10-04T00:00:00', 'id': UUID('514e56b5-7f1e-402a-9d35-3baee03e1444')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1940-07-15T00:00:00', 'id': UUID('ca866959-ffcb-460b-b54b-c3f0d722bfc0')}
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1940-07-15T00:00:00', 'id': UUID('04427e2d-c7ea-4402-be74-efd634399783')}
+   Symptom: {'value': 'all the rest', 'date': '1940-10-04T00:00:00', 'id': UUID('514e56b5-7f1e-402a-9d35-3baee03e1444')}

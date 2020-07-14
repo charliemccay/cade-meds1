@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Column
+   Country: England
+   PersonID: 19
+   Gender: Male
+   DOB: 2001-09-16 00:00:00
+   Surname: Sanderson
+   GivenName: Harry
+   School: Column School
+   GP: Column GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 026a3401-0c22-48c4-a55d-0bfe0a39b254
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '2001-11-15T00:00:00', 'id': UUID('1944fa72-b3c9-4a90-8c26-d35e463e7a84')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2001-09-16T00:00:00', 'id': UUID('ef7dcc24-3d50-40bd-9939-390236184daf')}]
+   Symptom: [{'value': 'all the rest', 'date': '2001-11-15T00:00:00', 'id': UUID('1944fa72-b3c9-4a90-8c26-d35e463e7a84')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2001-09-16T00:00:00', 'id': UUID('ef7dcc24-3d50-40bd-9939-390236184daf')}
+   Symptom: {'value': 'all the rest', 'date': '2001-11-15T00:00:00', 'id': UUID('1944fa72-b3c9-4a90-8c26-d35e463e7a84')}

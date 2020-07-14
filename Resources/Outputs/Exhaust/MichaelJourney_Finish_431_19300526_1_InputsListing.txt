@@ -1,0 +1,29 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Abbey
+   Country: England
+   PersonID: 1
+   Gender: Male
+   DOB: 1965-10-21 00:00:00
+   Surname: Norris
+   GivenName: Kieran
+   School: Abbey School
+   GP: Abbey GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: add93b63-76e3-4fa9-8ad0-10570ebacc40
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 91, 'kg'], 'date': '1965-12-16T00:00:00', 'id': UUID('e22560de-14f6-44bd-bb17-cfc787609b04')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 91, 'kg']
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1965-10-21T00:00:00', 'id': UUID('6137575c-7091-4f84-a919-6fd763d5e3fb')}]
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1965-10-21T00:00:00', 'id': UUID('ba93074c-b7f0-4368-8554-c74b04a1f47c')}]
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 91, 'kg'], 'date': '1965-12-16T00:00:00', 'id': UUID('e22560de-14f6-44bd-bb17-cfc787609b04')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1965-10-21T00:00:00', 'id': UUID('6137575c-7091-4f84-a919-6fd763d5e3fb')}
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1965-10-21T00:00:00', 'id': UUID('ba93074c-b7f0-4368-8554-c74b04a1f47c')}
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 91, 'kg'], 'date': '1965-12-16T00:00:00', 'id': UUID('e22560de-14f6-44bd-bb17-cfc787609b04')}

@@ -1,0 +1,29 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Column
+   Country: England
+   PersonID: 20
+   Gender: Female
+   DOB: 1968-12-21 00:00:00
+   Surname: Brooks
+   GivenName: Kiera
+   School: Column School
+   GP: Column GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: d700ac52-f25c-454a-818c-d9cfe00fd0be
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1969-03-11T00:00:00', 'id': UUID('b1cfe997-8891-462f-961d-3ad9635df8cc')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1968-12-21T00:00:00', 'id': UUID('94daec4e-f546-4afe-964d-3a281969d9ce')}]
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1968-12-21T00:00:00', 'id': UUID('f6495f4e-da3c-458b-b211-7d770450a63b')}]
+   Symptom: [{'value': 'all the rest', 'date': '1969-03-11T00:00:00', 'id': UUID('b1cfe997-8891-462f-961d-3ad9635df8cc')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1968-12-21T00:00:00', 'id': UUID('94daec4e-f546-4afe-964d-3a281969d9ce')}
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1968-12-21T00:00:00', 'id': UUID('f6495f4e-da3c-458b-b211-7d770450a63b')}
+   Symptom: {'value': 'all the rest', 'date': '1969-03-11T00:00:00', 'id': UUID('b1cfe997-8891-462f-961d-3ad9635df8cc')}

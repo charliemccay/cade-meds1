@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Monkmoor
+   Country: England
+   PersonID: 30
+   Gender: Female
+   DOB: 2011-10-22 00:00:00
+   Surname: Sanderson
+   GivenName: Evie
+   School: Monkmoor School
+   GP: Monkmoor GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 3cb6c10f-ce78-4ec3-896b-ae98caf7ff38
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '2011-12-25T00:00:00', 'id': UUID('92f798b1-74e1-4801-9fd5-61ec428c1d93')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2011-10-22T00:00:00', 'id': UUID('9c5db780-3650-4acb-a6fd-f689c9a04b29')}]
+   Symptom: [{'value': 'all the rest', 'date': '2011-12-25T00:00:00', 'id': UUID('92f798b1-74e1-4801-9fd5-61ec428c1d93')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2011-10-22T00:00:00', 'id': UUID('9c5db780-3650-4acb-a6fd-f689c9a04b29')}
+   Symptom: {'value': 'all the rest', 'date': '2011-12-25T00:00:00', 'id': UUID('92f798b1-74e1-4801-9fd5-61ec428c1d93')}

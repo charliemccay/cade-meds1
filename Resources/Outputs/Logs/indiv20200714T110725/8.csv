@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+960,MichaelJourney,WaitToSeeGP,,,,1998-05-12T00:00:00
+961,MichaelJourney,GPvisit,,,,1998-05-12T00:00:00
+962,MichaelJourney,GPvisit,GPVisit,Symptom,"['3141-9', 'Weight Measured', '27113001', 'Body weight', 116, 'kg']",1998-07-15T00:00:00
+962,MichaelJourney,GPvisit,,,,1998-07-15T00:00:00
+963,MichaelJourney,PharmacyVisit,,,,1998-07-15T00:00:00
+964,MichaelJourney,Wait4Park,,,,1998-07-20T08:00:00
+965,MichaelJourney,ParrkVisit,,,,1998-07-20T08:00:00
+966,MichaelJourney,Wait4Ambulance,,,,1998-07-28T08:00:00
+967,MichaelJourney,AmbulanceTrip,,,,1998-07-28T08:00:00
+968,MichaelJourney,Wiat4ED,,,,1998-07-28T08:01:00
+969,MichaelJourney,EmergencyDept,,,,1998-07-28T08:01:00
+970,MichaelJourney,Wait4Ward,,,,1998-07-28T08:08:00
+971,MichaelJourney,Admit2Ward,,,,1998-07-28T08:08:00
+972,MichaelJourney,Wait4Prepare4Discharge,,,,1998-07-28T08:28:00
+973,MichaelJourney,Prepare4Discharge,,,,1998-07-28T08:28:00
+974,MichaelJourney,Wait4Discharge,,,,1998-07-28T08:31:00
+975,MichaelJourney,Discharge,,,,1998-07-28T08:31:00
+976,MichaelJourney,Wait4PHR,,,,1998-07-28T08:37:00
+977,MichaelJourney,UpdatePHR,,,,1998-07-28T08:37:00
+978,MichaelJourney,Wait4OPMakeAppt,,,,1998-07-28T08:41:00
+979,MichaelJourney,CreateOutpatientAppt,,,,1998-07-28T08:41:00
+980,MichaelJourney,Wait4OutpatientAppt,,,,1998-07-28T08:57:00
+981,MichaelJourney,AttendOutpatients,,,,1998-07-28T08:57:00
+982,MichaelJourney,Finish,,,,1998-07-28T08:59:00
+983,MichaelJourney,Finish,,,,1998-07-28T08:59:00

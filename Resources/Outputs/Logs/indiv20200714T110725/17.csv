@@ -1,0 +1,28 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+48,MichaelJourney,WaitToSeeGP,,,,1940-07-15T00:00:00
+48,MichaelJourney,WaitToSeeGP,,HistoryGestationalDiabetes,"['472971004', 'History of gestational diabetes mellitus']",1940-07-15T00:00:00
+48,MichaelJourney,WaitToSeeGP,,FamilyHistoryDiabetes,"['430679000', 'Family history of diabetes mellitus type 2']",1940-07-15T00:00:00
+49,MichaelJourney,GPvisit,,,,1940-07-15T00:00:00
+50,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,1940-10-04T00:00:00
+50,MichaelJourney,GPvisit,,,,1940-10-04T00:00:00
+51,MichaelJourney,PharmacyVisit,,,,1940-10-04T00:00:00
+52,MichaelJourney,Wait4Park,,,,1940-10-13T19:00:00
+53,MichaelJourney,ParrkVisit,,,,1940-10-13T19:00:00
+54,MichaelJourney,Wait4Ambulance,,,,1940-10-24T19:00:00
+55,MichaelJourney,AmbulanceTrip,,,,1940-10-24T19:00:00
+56,MichaelJourney,Wiat4ED,,,,1940-10-24T19:17:00
+57,MichaelJourney,EmergencyDept,,,,1940-10-24T19:17:00
+58,MichaelJourney,Wait4Ward,,,,1940-10-24T19:31:00
+59,MichaelJourney,Admit2Ward,,,,1940-10-24T19:31:00
+60,MichaelJourney,Wait4Prepare4Discharge,,,,1940-10-24T19:44:00
+61,MichaelJourney,Prepare4Discharge,,,,1940-10-24T19:44:00
+62,MichaelJourney,Wait4Discharge,,,,1940-10-24T19:55:00
+63,MichaelJourney,Discharge,,,,1940-10-24T19:55:00
+64,MichaelJourney,Wait4PHR,,,,1940-10-24T20:11:00
+65,MichaelJourney,UpdatePHR,,,,1940-10-24T20:11:00
+66,MichaelJourney,Wait4OPMakeAppt,,,,1940-10-24T20:27:00
+67,MichaelJourney,CreateOutpatientAppt,,,,1940-10-24T20:27:00
+68,MichaelJourney,Wait4OutpatientAppt,,,,1940-10-24T20:45:00
+69,MichaelJourney,AttendOutpatients,,,,1940-10-24T20:45:00
+70,MichaelJourney,Finish,,,,1940-10-24T20:47:00
+71,MichaelJourney,Finish,,,,1940-10-24T20:47:00

@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Column
+   Country: England
+   PersonID: 18
+   Gender: Female
+   DOB: 2013-08-10 00:00:00
+   Surname: Kerr
+   GivenName: Sofia
+   School: Column School
+   GP: Column GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 31cc900c-4eac-4828-b06d-362ffa850b3e
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '2013-10-09T00:00:00', 'id': UUID('83e43906-a5a9-48b7-9125-71c4a6115cb5')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '2013-10-09T00:00:00', 'id': UUID('83e43906-a5a9-48b7-9125-71c4a6115cb5')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '2013-10-09T00:00:00', 'id': UUID('83e43906-a5a9-48b7-9125-71c4a6115cb5')}

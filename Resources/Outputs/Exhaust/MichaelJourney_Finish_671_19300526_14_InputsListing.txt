@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Bowbrook
+   Country: England
+   PersonID: 14
+   Gender: Male
+   DOB: 1976-10-14 00:00:00
+   Surname: Farmer
+   GivenName: Thomas
+   School: Bowbrook School
+   GP: Bowbrook GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 6f1145ab-7f0f-48cf-910b-c9a17a79db1a
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1976-12-30T00:00:00', 'id': UUID('a4379fff-dbf1-4aa6-9392-8c1d39620e63')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1976-12-30T00:00:00', 'id': UUID('a4379fff-dbf1-4aa6-9392-8c1d39620e63')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1976-12-30T00:00:00', 'id': UUID('a4379fff-dbf1-4aa6-9392-8c1d39620e63')}

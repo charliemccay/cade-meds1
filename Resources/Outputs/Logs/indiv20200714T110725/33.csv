@@ -1,0 +1,28 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+432,MichaelJourney,WaitToSeeGP,,,,1968-03-16T00:00:00
+432,MichaelJourney,WaitToSeeGP,,HistoryGestationalDiabetes,"['472971004', 'History of gestational diabetes mellitus']",1968-03-16T00:00:00
+432,MichaelJourney,WaitToSeeGP,,FamilyHistoryDiabetes,"['430679000', 'Family history of diabetes mellitus type 2']",1968-03-16T00:00:00
+433,MichaelJourney,GPvisit,,,,1968-03-16T00:00:00
+434,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,1968-05-25T00:00:00
+434,MichaelJourney,GPvisit,,,,1968-05-25T00:00:00
+435,MichaelJourney,PharmacyVisit,,,,1968-05-25T00:00:00
+436,MichaelJourney,Wait4Park,,,,1968-05-31T13:00:00
+437,MichaelJourney,ParrkVisit,,,,1968-05-31T13:00:00
+438,MichaelJourney,Wait4Ambulance,,,,1968-06-10T13:00:00
+439,MichaelJourney,AmbulanceTrip,,,,1968-06-10T13:00:00
+440,MichaelJourney,Wiat4ED,,,,1968-06-10T13:07:00
+441,MichaelJourney,EmergencyDept,,,,1968-06-10T13:07:00
+442,MichaelJourney,Wait4Ward,,,,1968-06-10T13:15:00
+443,MichaelJourney,Admit2Ward,,,,1968-06-10T13:15:00
+444,MichaelJourney,Wait4Prepare4Discharge,,,,1968-06-10T13:25:00
+445,MichaelJourney,Prepare4Discharge,,,,1968-06-10T13:25:00
+446,MichaelJourney,Wait4Discharge,,,,1968-06-10T13:31:00
+447,MichaelJourney,Discharge,,,,1968-06-10T13:31:00
+448,MichaelJourney,Wait4PHR,,,,1968-06-10T13:32:00
+449,MichaelJourney,UpdatePHR,,,,1968-06-10T13:32:00
+450,MichaelJourney,Wait4OPMakeAppt,,,,1968-06-10T13:47:00
+451,MichaelJourney,CreateOutpatientAppt,,,,1968-06-10T13:47:00
+452,MichaelJourney,Wait4OutpatientAppt,,,,1968-06-10T13:56:00
+453,MichaelJourney,AttendOutpatients,,,,1968-06-10T13:56:00
+454,MichaelJourney,Finish,,,,1968-06-10T14:04:00
+455,MichaelJourney,Finish,,,,1968-06-10T14:04:00

@@ -1,0 +1,27 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+192,MichaelJourney,WaitToSeeGP,,,,1956-09-21T00:00:00
+192,MichaelJourney,WaitToSeeGP,,FamilyHistoryDiabetes,"['430679000', 'Family history of diabetes mellitus type 2']",1956-09-21T00:00:00
+193,MichaelJourney,GPvisit,,,,1956-09-21T00:00:00
+194,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,1956-11-29T00:00:00
+194,MichaelJourney,GPvisit,,,,1956-11-29T00:00:00
+195,MichaelJourney,PharmacyVisit,,,,1956-11-29T00:00:00
+196,MichaelJourney,Wait4Park,,,,1956-12-03T04:00:00
+197,MichaelJourney,ParrkVisit,,,,1956-12-03T04:00:00
+198,MichaelJourney,Wait4Ambulance,,,,1956-12-18T04:00:00
+199,MichaelJourney,AmbulanceTrip,,,,1956-12-18T04:00:00
+200,MichaelJourney,Wiat4ED,,,,1956-12-18T04:01:00
+201,MichaelJourney,EmergencyDept,,,,1956-12-18T04:01:00
+202,MichaelJourney,Wait4Ward,,,,1956-12-18T04:14:00
+203,MichaelJourney,Admit2Ward,,,,1956-12-18T04:14:00
+204,MichaelJourney,Wait4Prepare4Discharge,,,,1956-12-18T04:15:00
+205,MichaelJourney,Prepare4Discharge,,,,1956-12-18T04:15:00
+206,MichaelJourney,Wait4Discharge,,,,1956-12-18T04:21:00
+207,MichaelJourney,Discharge,,,,1956-12-18T04:21:00
+208,MichaelJourney,Wait4PHR,,,,1956-12-18T04:41:00
+209,MichaelJourney,UpdatePHR,,,,1956-12-18T04:41:00
+210,MichaelJourney,Wait4OPMakeAppt,,,,1956-12-18T05:00:00
+211,MichaelJourney,CreateOutpatientAppt,,,,1956-12-18T05:00:00
+212,MichaelJourney,Wait4OutpatientAppt,,,,1956-12-18T05:16:00
+213,MichaelJourney,AttendOutpatients,,,,1956-12-18T05:16:00
+214,MichaelJourney,Finish,,,,1956-12-18T05:32:00
+215,MichaelJourney,Finish,,,,1956-12-18T05:32:00

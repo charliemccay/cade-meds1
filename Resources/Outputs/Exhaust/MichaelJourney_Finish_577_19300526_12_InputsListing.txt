@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Bowbrook
+   Country: England
+   PersonID: 12
+   Gender: Male
+   DOB: 1974-11-14 00:00:00
+   Surname: Hunt
+   GivenName: Muhammad
+   School: Bowbrook School
+   GP: Bowbrook GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 2b6168c1-3394-4b76-83db-f7dbb2292861
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1975-01-24T00:00:00', 'id': UUID('e015a184-3509-4ea0-9dd4-7badeafb1db0')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1975-01-24T00:00:00', 'id': UUID('e015a184-3509-4ea0-9dd4-7badeafb1db0')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1975-01-24T00:00:00', 'id': UUID('e015a184-3509-4ea0-9dd4-7badeafb1db0')}

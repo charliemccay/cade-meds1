@@ -1,0 +1,27 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+0,MichaelJourney,WaitToSeeGP,,,,1930-05-26T00:00:00
+0,MichaelJourney,WaitToSeeGP,,HistoryGestationalDiabetes,"['472971004', 'History of gestational diabetes mellitus']",1930-05-26T00:00:00
+1,MichaelJourney,GPvisit,,,,1930-05-26T00:00:00
+2,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,1930-08-08T00:00:00
+2,MichaelJourney,GPvisit,,,,1930-08-08T00:00:00
+3,MichaelJourney,PharmacyVisit,,,,1930-08-08T00:00:00
+4,MichaelJourney,Wait4Park,,,,1930-08-15T05:00:00
+5,MichaelJourney,ParrkVisit,,,,1930-08-15T05:00:00
+6,MichaelJourney,Wait4Ambulance,,,,1930-08-16T05:00:00
+7,MichaelJourney,AmbulanceTrip,,,,1930-08-16T05:00:00
+8,MichaelJourney,Wiat4ED,,,,1930-08-16T05:05:00
+9,MichaelJourney,EmergencyDept,,,,1930-08-16T05:05:00
+10,MichaelJourney,Wait4Ward,,,,1930-08-16T05:14:00
+11,MichaelJourney,Admit2Ward,,,,1930-08-16T05:14:00
+12,MichaelJourney,Wait4Prepare4Discharge,,,,1930-08-16T05:20:00
+13,MichaelJourney,Prepare4Discharge,,,,1930-08-16T05:20:00
+14,MichaelJourney,Wait4Discharge,,,,1930-08-16T05:28:00
+15,MichaelJourney,Discharge,,,,1930-08-16T05:28:00
+16,MichaelJourney,Wait4PHR,,,,1930-08-16T05:46:00
+17,MichaelJourney,UpdatePHR,,,,1930-08-16T05:46:00
+18,MichaelJourney,Wait4OPMakeAppt,,,,1930-08-16T06:00:00
+19,MichaelJourney,CreateOutpatientAppt,,,,1930-08-16T06:00:00
+20,MichaelJourney,Wait4OutpatientAppt,,,,1930-08-16T06:03:00
+21,MichaelJourney,AttendOutpatients,,,,1930-08-16T06:03:00
+22,MichaelJourney,Finish,,,,1930-08-16T06:23:00
+23,MichaelJourney,Finish,,,,1930-08-16T06:23:00

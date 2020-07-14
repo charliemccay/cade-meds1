@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Harlescott
+   Country: England
+   PersonID: 25
+   Gender: Male
+   DOB: 1960-05-10 00:00:00
+   Surname: Pearson
+   GivenName: Isaac
+   School: Harlescott School
+   GP: Harlescott GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 1c6ef03a-2640-4b8c-a6ae-3391481521c1
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1960-07-06T00:00:00', 'id': UUID('867a55ef-54c6-4aef-89f4-2282a9eeec18')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1960-07-06T00:00:00', 'id': UUID('867a55ef-54c6-4aef-89f4-2282a9eeec18')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1960-07-06T00:00:00', 'id': UUID('867a55ef-54c6-4aef-89f4-2282a9eeec18')}

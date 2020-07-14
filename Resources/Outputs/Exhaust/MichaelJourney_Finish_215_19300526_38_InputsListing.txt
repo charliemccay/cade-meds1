@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Quarry and Coton Hill
+   Country: England
+   PersonID: 38
+   Gender: Male
+   DOB: 1956-09-21 00:00:00
+   Surname: Horton
+   GivenName: Leon
+   School: Quarry School
+   GP: Quarry GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 488cc1bc-aa6d-40d5-a471-9afd2d37b7d8
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1956-11-29T00:00:00', 'id': UUID('4249c8db-0dfd-4703-89f0-0da08bc2334c')}
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1956-09-21T00:00:00', 'id': UUID('c57d2ff4-a534-4712-97b0-af0ede293f75')}]
+   Symptom: [{'value': 'all the rest', 'date': '1956-11-29T00:00:00', 'id': UUID('4249c8db-0dfd-4703-89f0-0da08bc2334c')}]
+person['Last']':  
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1956-09-21T00:00:00', 'id': UUID('c57d2ff4-a534-4712-97b0-af0ede293f75')}
+   Symptom: {'value': 'all the rest', 'date': '1956-11-29T00:00:00', 'id': UUID('4249c8db-0dfd-4703-89f0-0da08bc2334c')}

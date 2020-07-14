@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Belle Vue
+   Country: England
+   PersonID: 10
+   Gender: Male
+   DOB: 2017-05-28 00:00:00
+   Surname: Whitehead
+   GivenName: Finlay
+   School: Belle Vue School
+   GP: Belle Vue GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: c28f92ea-0468-44ec-a73c-ef379885be9d
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 105, 'kg'], 'date': '2017-08-13T00:00:00', 'id': UUID('556e9a4d-559b-4440-8d83-05112a13fd6b')}
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 105, 'kg']
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 105, 'kg'], 'date': '2017-08-13T00:00:00', 'id': UUID('556e9a4d-559b-4440-8d83-05112a13fd6b')}]
+person['Last']':  
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 105, 'kg'], 'date': '2017-08-13T00:00:00', 'id': UUID('556e9a4d-559b-4440-8d83-05112a13fd6b')}

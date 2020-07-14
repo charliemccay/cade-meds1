@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Battlefield
+   Country: England
+   PersonID: 7
+   Gender: Female
+   DOB: 1978-11-26 00:00:00
+   Surname: Stone
+   GivenName: Tegan
+   School: Battlefield School
+   GP: Battlefield GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 843167b8-f72d-4cd1-920e-285e43bf410e
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 66, 'kg'], 'date': '1979-01-31T00:00:00', 'id': UUID('9102687f-ff33-42b8-952b-ef8e64881dea')}
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 66, 'kg']
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 66, 'kg'], 'date': '1979-01-31T00:00:00', 'id': UUID('9102687f-ff33-42b8-952b-ef8e64881dea')}]
+person['Last']':  
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 66, 'kg'], 'date': '1979-01-31T00:00:00', 'id': UUID('9102687f-ff33-42b8-952b-ef8e64881dea')}

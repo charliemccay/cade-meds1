@@ -1,0 +1,59 @@
+11:07:28 00102 INFO: Converting BPMN pathway MichaelJourney.bpmn to json...
+11:07:28 00103 INFO: Initial node created: Birth
+11:07:28 00103 INFO: Simple node created: PharmacyVisit
+11:07:28 00103 INFO: Simple node created: ParrkVisit
+11:07:28 00103 INFO: Simple node created: AmbulanceTrip
+11:07:28 00103 INFO: Simple node created: EmergencyDept
+11:07:28 00103 INFO: Simple node created: Admit2Ward
+11:07:28 00103 INFO: Simple node created: Prepare4Discharge
+11:07:28 00103 INFO: Simple node created: Discharge
+11:07:28 00103 INFO: Simple node created: UpdatePHR
+11:07:28 00103 INFO: Simple node created: CreateOutpatientAppt
+11:07:28 00103 INFO: Simple node created: AttendOutpatients
+11:07:28 00103 INFO: Event node created: GPvisit
+11:07:28 00103 INFO: Delay node created: WaitToSeeGP "Wait to See GP"
+11:07:28 00103 INFO: Delay node created: Wait4Pharmacy "Wait to visit Pharmacy"
+11:07:28 00103 INFO: Delay node created: Wait4Park "Wait to visit Park"
+11:07:28 00103 INFO: Delay node created: Wait4Ambulance "Wait for Ambulance"
+11:07:28 00103 INFO: Delay node created: Wiat4ED "Wait for Emergency Dept"
+11:07:28 00103 INFO: Delay node created: Wait4Ward "Wait for Ward"
+11:07:28 00103 INFO: Delay node created: Wait4Prepare4Discharge "Wait for Prepare for Discharge"
+11:07:28 00103 INFO: Delay node created: Wait4Discharge "Wait for Discharge"
+11:07:28 00103 INFO: Delay node created: Wait4PHR "Wait for PHR
+
+"
+11:07:28 00103 INFO: Delay node created: Wait4OPMakeAppt "Wait for Making OP Appt
+
+"
+11:07:28 00103 INFO: Delay node created: Wait4OutpatientAppt "Wait for Outpatient Appt
+
+"
+11:07:28 00103 INFO: Terminal node created: Finish
+11:07:28 00105 INFO: Direct Transition for WaitToSeeGP added: GPvisit
+11:07:28 00105 INFO: Direct Transition for GPvisit added: Wait4Pharmacy
+11:07:28 00105 INFO: Direct Transition for Wait4Pharmacy added: PharmacyVisit
+11:07:28 00105 INFO: Direct Transition for PharmacyVisit added: Wait4Park
+11:07:28 00105 INFO: Direct Transition for Birth added: WaitToSeeGP
+11:07:28 00105 INFO: Direct Transition for Wait4Park added: ParrkVisit
+11:07:28 00105 INFO: Direct Transition for ParrkVisit added: Wait4Ambulance
+11:07:28 00105 INFO: Direct Transition for Wait4Ambulance added: AmbulanceTrip
+11:07:28 00105 INFO: Direct Transition for AmbulanceTrip added: Wiat4ED
+11:07:28 00105 INFO: Direct Transition for Wiat4ED added: EmergencyDept
+11:07:28 00105 INFO: Direct Transition for EmergencyDept added: Wait4Ward
+11:07:28 00105 INFO: Direct Transition for Admit2Ward added: Wait4Prepare4Discharge
+11:07:28 00105 INFO: Direct Transition for Prepare4Discharge added: Wait4Discharge
+11:07:28 00105 INFO: Direct Transition for Discharge added: Wait4PHR
+11:07:28 00105 INFO: Direct Transition for UpdatePHR added: Wait4OPMakeAppt
+11:07:28 00105 INFO: Direct Transition for CreateOutpatientAppt added: Wait4OutpatientAppt
+11:07:28 00105 INFO: Direct Transition for AttendOutpatients added: Finish
+11:07:28 00105 INFO: Direct Transition for Wait4Ward added: Admit2Ward
+11:07:28 00105 INFO: Direct Transition for Wait4Prepare4Discharge added: Prepare4Discharge
+11:07:28 00105 INFO: Direct Transition for Wait4Discharge added: Discharge
+11:07:28 00105 INFO: Direct Transition for Wait4PHR added: UpdatePHR
+11:07:28 00105 INFO: Direct Transition for Wait4OPMakeAppt added: CreateOutpatientAppt
+11:07:28 00105 INFO: Direct Transition for Wait4OutpatientAppt added: AttendOutpatients
+11:07:28 NOTE  Looking for attributes from setAttribute for MichaelJourney Birth
+11:07:28 NOTE  Adding attribute from setAttribute for MichaelJourney Birth
+11:07:28 NOTE  Looking for attributes from setAttribute for MichaelJourney Birth
+11:07:28 NOTE  Adding attribute from setAttribute for MichaelJourney Birth
+11:07:28 00106 INFO: Pathway MichaelJourney.json has been converted to json successfully.

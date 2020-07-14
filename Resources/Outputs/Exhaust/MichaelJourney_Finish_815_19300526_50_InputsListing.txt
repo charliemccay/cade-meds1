@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Underdale
+   Country: England
+   PersonID: 50
+   Gender: Male
+   DOB: 1981-03-26 00:00:00
+   Surname: Daniels
+   GivenName: Muhammad
+   School: Underdale School
+   GP: Underdale GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 322b0d45-4741-46f0-9c9c-1964868bbc6e
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1981-06-11T00:00:00', 'id': UUID('c7edf84d-8b5b-4ea7-9c64-805b479aac1e')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1981-06-11T00:00:00', 'id': UUID('c7edf84d-8b5b-4ea7-9c64-805b479aac1e')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1981-06-11T00:00:00', 'id': UUID('c7edf84d-8b5b-4ea7-9c64-805b479aac1e')}

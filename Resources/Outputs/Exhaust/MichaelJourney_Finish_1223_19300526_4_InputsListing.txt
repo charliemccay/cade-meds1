@@ -1,0 +1,29 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Bagley
+   Country: England
+   PersonID: 4
+   Gender: Male
+   DOB: 2019-01-12 00:00:00
+   Surname: Rowley
+   GivenName: Anthony
+   School: Bagley School
+   GP: Bagely GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 3e215b9a-2748-4c45-bad2-071e414cdc62
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 78, 'kg'], 'date': '2019-03-17T00:00:00', 'id': UUID('ab3b54d7-91c8-4979-9537-a67388987b83')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 78, 'kg']
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2019-01-12T00:00:00', 'id': UUID('249f90ec-819e-4ab1-8409-b9b9c7306690')}]
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '2019-01-12T00:00:00', 'id': UUID('99344a10-35dd-4831-963b-09bac1559e34')}]
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 78, 'kg'], 'date': '2019-03-17T00:00:00', 'id': UUID('ab3b54d7-91c8-4979-9537-a67388987b83')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '2019-01-12T00:00:00', 'id': UUID('249f90ec-819e-4ab1-8409-b9b9c7306690')}
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '2019-01-12T00:00:00', 'id': UUID('99344a10-35dd-4831-963b-09bac1559e34')}
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 78, 'kg'], 'date': '2019-03-17T00:00:00', 'id': UUID('ab3b54d7-91c8-4979-9537-a67388987b83')}

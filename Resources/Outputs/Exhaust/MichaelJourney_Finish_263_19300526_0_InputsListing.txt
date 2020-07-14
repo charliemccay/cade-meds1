@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Abbey
+   Country: England
+   PersonID: 0
+   Gender: Male
+   DOB: 1958-10-07 00:00:00
+   Surname: Sims
+   GivenName: Christopher
+   School: Abbey School
+   GP: Abbey GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: f13bedd4-2a4d-4592-a544-99c4cd515b70
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 107, 'kg'], 'date': '1958-12-03T00:00:00', 'id': UUID('2c08900e-4b22-4f48-9303-836267e89a54')}
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 107, 'kg']
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 107, 'kg'], 'date': '1958-12-03T00:00:00', 'id': UUID('2c08900e-4b22-4f48-9303-836267e89a54')}]
+person['Last']':  
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 107, 'kg'], 'date': '1958-12-03T00:00:00', 'id': UUID('2c08900e-4b22-4f48-9303-836267e89a54')}

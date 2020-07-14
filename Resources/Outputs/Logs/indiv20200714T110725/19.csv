@@ -1,0 +1,27 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+1008,MichaelJourney,WaitToSeeGP,,,,2001-09-16T00:00:00
+1008,MichaelJourney,WaitToSeeGP,,HistoryGestationalDiabetes,"['472971004', 'History of gestational diabetes mellitus']",2001-09-16T00:00:00
+1009,MichaelJourney,GPvisit,,,,2001-09-16T00:00:00
+1010,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,2001-11-15T00:00:00
+1010,MichaelJourney,GPvisit,,,,2001-11-15T00:00:00
+1011,MichaelJourney,PharmacyVisit,,,,2001-11-15T00:00:00
+1012,MichaelJourney,Wait4Park,,,,2001-11-18T18:00:00
+1013,MichaelJourney,ParrkVisit,,,,2001-11-18T18:00:00
+1014,MichaelJourney,Wait4Ambulance,,,,2001-11-30T18:00:00
+1015,MichaelJourney,AmbulanceTrip,,,,2001-11-30T18:00:00
+1016,MichaelJourney,Wiat4ED,,,,2001-11-30T18:19:00
+1017,MichaelJourney,EmergencyDept,,,,2001-11-30T18:19:00
+1018,MichaelJourney,Wait4Ward,,,,2001-11-30T18:33:00
+1019,MichaelJourney,Admit2Ward,,,,2001-11-30T18:33:00
+1020,MichaelJourney,Wait4Prepare4Discharge,,,,2001-11-30T18:47:00
+1021,MichaelJourney,Prepare4Discharge,,,,2001-11-30T18:47:00
+1022,MichaelJourney,Wait4Discharge,,,,2001-11-30T18:52:00
+1023,MichaelJourney,Discharge,,,,2001-11-30T18:52:00
+1024,MichaelJourney,Wait4PHR,,,,2001-11-30T19:10:00
+1025,MichaelJourney,UpdatePHR,,,,2001-11-30T19:10:00
+1026,MichaelJourney,Wait4OPMakeAppt,,,,2001-11-30T19:14:00
+1027,MichaelJourney,CreateOutpatientAppt,,,,2001-11-30T19:14:00
+1028,MichaelJourney,Wait4OutpatientAppt,,,,2001-11-30T19:29:00
+1029,MichaelJourney,AttendOutpatients,,,,2001-11-30T19:29:00
+1030,MichaelJourney,Finish,,,,2001-11-30T19:47:00
+1031,MichaelJourney,Finish,,,,2001-11-30T19:47:00

@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Harlescott
+   Country: England
+   PersonID: 26
+   Gender: Female
+   DOB: 1975-10-15 00:00:00
+   Surname: Sutton
+   GivenName: Olivia
+   School: Harlescott School
+   GP: Harlescott GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 69433e65-8487-4125-957f-6353e5d77fca
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1975-12-12T00:00:00', 'id': UUID('4597ffd8-9c0f-43a4-ac03-c9d35862e903')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1975-10-15T00:00:00', 'id': UUID('37da092c-6a55-4ea9-94de-252d8a37ecac')}]
+   Symptom: [{'value': 'all the rest', 'date': '1975-12-12T00:00:00', 'id': UUID('4597ffd8-9c0f-43a4-ac03-c9d35862e903')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1975-10-15T00:00:00', 'id': UUID('37da092c-6a55-4ea9-94de-252d8a37ecac')}
+   Symptom: {'value': 'all the rest', 'date': '1975-12-12T00:00:00', 'id': UUID('4597ffd8-9c0f-43a4-ac03-c9d35862e903')}

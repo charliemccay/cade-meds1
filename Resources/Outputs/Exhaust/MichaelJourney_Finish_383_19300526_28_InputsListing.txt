@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Meole
+   Country: England
+   PersonID: 28
+   Gender: Male
+   DOB: 1962-10-30 00:00:00
+   Surname: Lowe
+   GivenName: Lucas
+   School: Meole School
+   GP: Meole GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: f7c17c31-161b-43d6-b76c-1bb2b3910d8b
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1963-01-04T00:00:00', 'id': UUID('b3f31e5e-d680-4681-9639-3d3b99f50e6c')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1963-01-04T00:00:00', 'id': UUID('b3f31e5e-d680-4681-9639-3d3b99f50e6c')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1963-01-04T00:00:00', 'id': UUID('b3f31e5e-d680-4681-9639-3d3b99f50e6c')}

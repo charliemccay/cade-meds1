@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Quarry and Coton Hill
+   Country: England
+   PersonID: 36
+   Gender: Female
+   DOB: 1953-06-05 00:00:00
+   Surname: Yates
+   GivenName: Brooke
+   School: Coton Hill School
+   GP: Quarry GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: ba0def6c-146e-4e38-919e-dc029089f033
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1953-08-01T00:00:00', 'id': UUID('d60a4c59-a74a-4d7d-8bbd-71e83e157b6e')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1953-08-01T00:00:00', 'id': UUID('d60a4c59-a74a-4d7d-8bbd-71e83e157b6e')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1953-08-01T00:00:00', 'id': UUID('d60a4c59-a74a-4d7d-8bbd-71e83e157b6e')}

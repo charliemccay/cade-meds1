@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Battlefield
+   Country: England
+   PersonID: 8
+   Gender: Female
+   DOB: 1998-05-12 00:00:00
+   Surname: Rees
+   GivenName: Courtney
+   School: Battlefield School
+   GP: Battlefield GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 4b80de91-53af-428a-a889-253b93e35d72
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 116, 'kg'], 'date': '1998-07-15T00:00:00', 'id': UUID('34666118-7af5-4148-9a21-61c9d02311b3')}
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 116, 'kg']
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 116, 'kg'], 'date': '1998-07-15T00:00:00', 'id': UUID('34666118-7af5-4148-9a21-61c9d02311b3')}]
+person['Last']':  
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 116, 'kg'], 'date': '1998-07-15T00:00:00', 'id': UUID('34666118-7af5-4148-9a21-61c9d02311b3')}

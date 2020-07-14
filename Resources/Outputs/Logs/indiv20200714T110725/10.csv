@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+1152,MichaelJourney,WaitToSeeGP,,,,2017-05-28T00:00:00
+1153,MichaelJourney,GPvisit,,,,2017-05-28T00:00:00
+1156,MichaelJourney,GPvisit,GPVisit,Symptom,"['3141-9', 'Weight Measured', '27113001', 'Body weight', 105, 'kg']",2017-08-13T00:00:00
+1156,MichaelJourney,GPvisit,,,,2017-08-13T00:00:00
+1157,MichaelJourney,PharmacyVisit,,,,2017-08-13T00:00:00
+1160,MichaelJourney,Wait4Park,,,,2017-08-20T12:00:00
+1161,MichaelJourney,ParrkVisit,,,,2017-08-20T12:00:00
+1164,MichaelJourney,Wait4Ambulance,,,,2017-08-30T12:00:00
+1165,MichaelJourney,AmbulanceTrip,,,,2017-08-30T12:00:00
+1166,MichaelJourney,Wiat4ED,,,,2017-08-30T12:20:00
+1167,MichaelJourney,EmergencyDept,,,,2017-08-30T12:20:00
+1168,MichaelJourney,Wait4Ward,,,,2017-08-30T12:40:00
+1169,MichaelJourney,Admit2Ward,,,,2017-08-30T12:40:00
+1170,MichaelJourney,Wait4Prepare4Discharge,,,,2017-08-30T12:46:00
+1171,MichaelJourney,Prepare4Discharge,,,,2017-08-30T12:46:00
+1172,MichaelJourney,Wait4Discharge,,,,2017-08-30T13:06:00
+1173,MichaelJourney,Discharge,,,,2017-08-30T13:06:00
+1174,MichaelJourney,Wait4PHR,,,,2017-08-30T13:22:00
+1175,MichaelJourney,UpdatePHR,,,,2017-08-30T13:22:00
+1176,MichaelJourney,Wait4OPMakeAppt,,,,2017-08-30T13:34:00
+1177,MichaelJourney,CreateOutpatientAppt,,,,2017-08-30T13:34:00
+1178,MichaelJourney,Wait4OutpatientAppt,,,,2017-08-30T13:35:00
+1179,MichaelJourney,AttendOutpatients,,,,2017-08-30T13:35:00
+1180,MichaelJourney,Finish,,,,2017-08-30T13:52:00
+1181,MichaelJourney,Finish,,,,2017-08-30T13:52:00

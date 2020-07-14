@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Sutton and Reabrook
+   Country: England
+   PersonID: 45
+   Gender: Male
+   DOB: 1960-04-13 00:00:00
+   Surname: Duffy
+   GivenName: Joseph
+   School: Reabrook School
+   GP: Sutton GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 84ee0626-fde9-40b9-90ae-3931fa2c8359
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1960-07-05T00:00:00', 'id': UUID('47c9b3b9-c160-4238-8177-5e5e9e9850df')}
+   HistoryGestationalDiabetes: ['472971004', 'History of gestational diabetes mellitus']
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   HistoryGestationalDiabetes: [{'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1960-04-13T00:00:00', 'id': UUID('a01f96b7-3776-48d1-994d-ee11e2468030')}]
+   Symptom: [{'value': 'all the rest', 'date': '1960-07-05T00:00:00', 'id': UUID('47c9b3b9-c160-4238-8177-5e5e9e9850df')}]
+person['Last']':  
+   HistoryGestationalDiabetes: {'value': ['472971004', 'History of gestational diabetes mellitus'], 'date': '1960-04-13T00:00:00', 'id': UUID('a01f96b7-3776-48d1-994d-ee11e2468030')}
+   Symptom: {'value': 'all the rest', 'date': '1960-07-05T00:00:00', 'id': UUID('47c9b3b9-c160-4238-8177-5e5e9e9850df')}

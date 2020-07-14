@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Porthill
+   Country: England
+   PersonID: 34
+   Gender: Female
+   DOB: 1957-10-17 00:00:00
+   Surname: Sharpe
+   GivenName: Victoria
+   School: Porthill School
+   GP: Porthill GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: c28cc232-358c-4a3d-be51-d8116f6296d2
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1958-01-06T00:00:00', 'id': UUID('e6f405af-200e-47f8-bfb0-8ef235099380')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1958-01-06T00:00:00', 'id': UUID('e6f405af-200e-47f8-bfb0-8ef235099380')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1958-01-06T00:00:00', 'id': UUID('e6f405af-200e-47f8-bfb0-8ef235099380')}

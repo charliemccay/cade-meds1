@@ -1,0 +1,26 @@
+EventID,Pathway,Node,DecisionTable,Attribute,Value,Date
+1104,MichaelJourney,WaitToSeeGP,,,,2012-02-07T00:00:00
+1105,MichaelJourney,GPvisit,,,,2012-02-07T00:00:00
+1106,MichaelJourney,GPvisit,GPVisit,Symptom,all the rest,2012-04-05T00:00:00
+1106,MichaelJourney,GPvisit,,,,2012-04-05T00:00:00
+1107,MichaelJourney,PharmacyVisit,,,,2012-04-05T00:00:00
+1108,MichaelJourney,Wait4Park,,,,2012-04-06T16:00:00
+1109,MichaelJourney,ParrkVisit,,,,2012-04-06T16:00:00
+1110,MichaelJourney,Wait4Ambulance,,,,2012-04-08T16:00:00
+1111,MichaelJourney,AmbulanceTrip,,,,2012-04-08T16:00:00
+1112,MichaelJourney,Wiat4ED,,,,2012-04-08T16:06:00
+1113,MichaelJourney,EmergencyDept,,,,2012-04-08T16:06:00
+1114,MichaelJourney,Wait4Ward,,,,2012-04-08T16:15:00
+1115,MichaelJourney,Admit2Ward,,,,2012-04-08T16:15:00
+1116,MichaelJourney,Wait4Prepare4Discharge,,,,2012-04-08T16:28:00
+1117,MichaelJourney,Prepare4Discharge,,,,2012-04-08T16:28:00
+1118,MichaelJourney,Wait4Discharge,,,,2012-04-08T16:48:00
+1119,MichaelJourney,Discharge,,,,2012-04-08T16:48:00
+1120,MichaelJourney,Wait4PHR,,,,2012-04-08T17:00:00
+1121,MichaelJourney,UpdatePHR,,,,2012-04-08T17:00:00
+1122,MichaelJourney,Wait4OPMakeAppt,,,,2012-04-08T17:15:00
+1123,MichaelJourney,CreateOutpatientAppt,,,,2012-04-08T17:15:00
+1124,MichaelJourney,Wait4OutpatientAppt,,,,2012-04-08T17:33:00
+1125,MichaelJourney,AttendOutpatients,,,,2012-04-08T17:33:00
+1126,MichaelJourney,Finish,,,,2012-04-08T17:40:00
+1127,MichaelJourney,Finish,,,,2012-04-08T17:40:00

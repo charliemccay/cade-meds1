@@ -1,0 +1,23 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Porthill
+   Country: England
+   PersonID: 35
+   Gender: Male
+   DOB: 1979-09-10 00:00:00
+   Surname: Carr
+   GivenName: Ben
+   School: Porthill School
+   GP: Porthill GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: e988c7f2-6c6d-44e6-8a25-5d65990ad1b5
+   This: {'name': 'Symptom', 'value': 'all the rest', 'date': '1979-11-20T00:00:00', 'id': UUID('382234ec-6ddd-4bc8-9fbe-5b58f72b82a3')}
+   Symptom: all the rest
+----------------------------
+person['Hist']':  
+   Symptom: [{'value': 'all the rest', 'date': '1979-11-20T00:00:00', 'id': UUID('382234ec-6ddd-4bc8-9fbe-5b58f72b82a3')}]
+person['Last']':  
+   Symptom: {'value': 'all the rest', 'date': '1979-11-20T00:00:00', 'id': UUID('382234ec-6ddd-4bc8-9fbe-5b58f72b82a3')}

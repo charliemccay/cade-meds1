@@ -1,0 +1,26 @@
+
+timestamp: 1930_05_26
+activity_time: 1930-05-26
+person: 
+   Area: Abbey
+   Country: England
+   PersonID: 2
+   Gender: Male
+   DOB: 1943-03-01 00:00:00
+   Surname: Wade
+   GivenName: Kian
+   School: Abbey School
+   GP: Abbey GP
+   Terminal: False
+   MichaelJourneyStatus: Finish
+   patient_id: 0e16b323-730d-45ef-a628-4723ad27f429
+   This: {'name': 'Symptom', 'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 77, 'kg'], 'date': '1943-05-07T00:00:00', 'id': UUID('88fd8708-a4c7-4ff5-ae31-c8e389da56c9')}
+   FamilyHistoryDiabetes: ['430679000', 'Family history of diabetes mellitus type 2']
+   Symptom: ['3141-9', 'Weight Measured', '27113001', 'Body weight', 77, 'kg']
+----------------------------
+person['Hist']':  
+   FamilyHistoryDiabetes: [{'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1943-03-01T00:00:00', 'id': UUID('a9ef1ea4-4591-4f61-9346-fd426131e7ee')}]
+   Symptom: [{'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 77, 'kg'], 'date': '1943-05-07T00:00:00', 'id': UUID('88fd8708-a4c7-4ff5-ae31-c8e389da56c9')}]
+person['Last']':  
+   FamilyHistoryDiabetes: {'value': ['430679000', 'Family history of diabetes mellitus type 2'], 'date': '1943-03-01T00:00:00', 'id': UUID('a9ef1ea4-4591-4f61-9346-fd426131e7ee')}
+   Symptom: {'value': ['3141-9', 'Weight Measured', '27113001', 'Body weight', 77, 'kg'], 'date': '1943-05-07T00:00:00', 'id': UUID('88fd8708-a4c7-4ff5-ae31-c8e389da56c9')}
